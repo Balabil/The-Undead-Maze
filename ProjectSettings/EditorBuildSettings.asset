@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Menu.unity
+    guid: 4f4d44e0295e77249a8f5129895926d7
+  - enabled: 1
+    path: Assets/Poggers.unity
+    guid: 60c2fd5cdfa21414aa3559f79881ab92
+  - enabled: 1
+    path: Assets/End Screen.unity
+    guid: 2c94d5d18d65ac54da6e07a5fbbc4bf4
+  - enabled: 1
+    path: Assets/End Screen - Copy.unity
+    guid: 26f7af79bff57104384bfaccafed2b08
+  m_configObjects: {}
