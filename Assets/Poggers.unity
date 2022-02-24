@@ -864,7 +864,6 @@ MonoBehaviour:
   TargetChar: {fileID: 5999105}
   agent: {fileID: 5999108}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -1871,7 +1870,6 @@ MonoBehaviour:
   TargetChar: {fileID: 49574134}
   agent: {fileID: 49574137}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -5191,6 +5189,7 @@ Transform:
   - {fileID: 1131184945}
   - {fileID: 596277736}
   - {fileID: 1767266958}
+  - {fileID: 855046020}
   m_Father: {fileID: 0}
   m_RootOrder: 55
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6031,7 +6030,6 @@ MonoBehaviour:
   TargetChar: {fileID: 205745148}
   agent: {fileID: 205745151}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -6424,7 +6422,6 @@ MonoBehaviour:
   TargetChar: {fileID: 209372410}
   agent: {fileID: 209372413}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -7222,7 +7219,6 @@ MonoBehaviour:
   TargetChar: {fileID: 227424937}
   agent: {fileID: 227424940}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -8530,7 +8526,6 @@ MonoBehaviour:
   TargetChar: {fileID: 261739986}
   agent: {fileID: 261739989}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -11124,7 +11119,6 @@ MonoBehaviour:
   TargetChar: {fileID: 395350839}
   agent: {fileID: 395350841}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -11455,7 +11449,6 @@ MonoBehaviour:
   TargetChar: {fileID: 416449629}
   agent: {fileID: 416449632}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -12845,7 +12838,6 @@ MonoBehaviour:
   TargetChar: {fileID: 444170025}
   agent: {fileID: 444170028}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -13298,7 +13290,6 @@ MonoBehaviour:
   TargetChar: {fileID: 449708748}
   agent: {fileID: 449708751}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -14016,7 +14007,6 @@ MonoBehaviour:
   TargetChar: {fileID: 493826042}
   agent: {fileID: 493826045}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -14614,7 +14604,6 @@ MonoBehaviour:
   TargetChar: {fileID: 545138065}
   agent: {fileID: 545138068}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -15588,7 +15577,6 @@ MonoBehaviour:
   TargetChar: {fileID: 569904570}
   agent: {fileID: 569904573}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -15798,7 +15786,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh20078
+  m_Name: pb_Mesh-315362
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -18084,7 +18072,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 0.1
+  m_Intensity: 0.5
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -18142,7 +18130,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalPosition: {x: 1, y: 24, z: 10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -18655,7 +18643,6 @@ MonoBehaviour:
   TargetChar: {fileID: 723218915}
   agent: {fileID: 723218918}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -20247,7 +20234,6 @@ MonoBehaviour:
   TargetChar: {fileID: 823467322}
   agent: {fileID: 823467325}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -20687,6 +20673,350 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+--- !u!1 &855046019
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 855046020}
+  - component: {fileID: 855046026}
+  - component: {fileID: 855046025}
+  - component: {fileID: 855046024}
+  - component: {fileID: 855046023}
+  - component: {fileID: 855046022}
+  - component: {fileID: 855046021}
+  m_Layer: 0
+  m_Name: Cube (52)
+  m_TagString: Obstacle
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
+  m_IsActive: 1
+--- !u!4 &855046020
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 855046019}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 177371022}
+  m_RootOrder: 65
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &855046021
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 855046019}
+  m_Material: {fileID: 13400000, guid: 29cbf2ed14c983e44bd2d22fdcd51c25, type: 2}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 5, y: 10, z: 5}
+  m_Center: {x: 2.5, y: 5, z: -2.5}
+--- !u!114 &855046022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 855046019}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_OverrideArea: 1
+  m_Area: 1
+  m_IgnoreFromBuild: 0
+  m_AffectedAgents: ffffffff
+--- !u!64 &855046023
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 855046019}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 591821581}
+--- !u!33 &855046024
+MeshFilter:
+  m_ObjectHideFlags: 10
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 855046019}
+  m_Mesh: {fileID: 591821581}
+--- !u!23 &855046025
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 855046019}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 6eefc055ee419ea49af280cd42314208, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 2
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &855046026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 855046019}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8233d90336aea43098adf6dbabd606a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MeshFormatVersion: 1
+  m_Faces:
+  - m_Indexes: 000000000100000002000000010000000300000002000000
+    m_SmoothingGroup: 0
+    m_Uv:
+      m_UseWorldSpace: 0
+      m_FlipU: 0
+      m_FlipV: 0
+      m_SwapUV: 0
+      m_Fill: 1
+      m_Scale: {x: 1, y: 1}
+      m_Offset: {x: 0, y: 0}
+      m_Rotation: 0
+      m_Anchor: 9
+    m_Material: {fileID: 0}
+    m_SubmeshIndex: 0
+    m_ManualUV: 0
+    elementGroup: -1
+    m_TextureGroup: -1
+  - m_Indexes: 040000000500000006000000050000000700000006000000
+    m_SmoothingGroup: 0
+    m_Uv:
+      m_UseWorldSpace: 0
+      m_FlipU: 0
+      m_FlipV: 0
+      m_SwapUV: 0
+      m_Fill: 1
+      m_Scale: {x: 1, y: 1}
+      m_Offset: {x: 0, y: 0}
+      m_Rotation: 0
+      m_Anchor: 9
+    m_Material: {fileID: 0}
+    m_SubmeshIndex: 0
+    m_ManualUV: 0
+    elementGroup: -1
+    m_TextureGroup: -1
+  - m_Indexes: 08000000090000000a000000090000000b0000000a000000
+    m_SmoothingGroup: 0
+    m_Uv:
+      m_UseWorldSpace: 0
+      m_FlipU: 0
+      m_FlipV: 0
+      m_SwapUV: 0
+      m_Fill: 1
+      m_Scale: {x: 1, y: 1}
+      m_Offset: {x: 0, y: 0}
+      m_Rotation: 0
+      m_Anchor: 9
+    m_Material: {fileID: 0}
+    m_SubmeshIndex: 0
+    m_ManualUV: 0
+    elementGroup: -1
+    m_TextureGroup: -1
+  - m_Indexes: 0c0000000d0000000e0000000d0000000f0000000e000000
+    m_SmoothingGroup: 0
+    m_Uv:
+      m_UseWorldSpace: 0
+      m_FlipU: 0
+      m_FlipV: 0
+      m_SwapUV: 0
+      m_Fill: 1
+      m_Scale: {x: 1, y: 1}
+      m_Offset: {x: 0, y: 0}
+      m_Rotation: 0
+      m_Anchor: 9
+    m_Material: {fileID: 0}
+    m_SubmeshIndex: 0
+    m_ManualUV: 0
+    elementGroup: -1
+    m_TextureGroup: -1
+  - m_Indexes: 100000001100000012000000110000001300000012000000
+    m_SmoothingGroup: 0
+    m_Uv:
+      m_UseWorldSpace: 0
+      m_FlipU: 0
+      m_FlipV: 0
+      m_SwapUV: 0
+      m_Fill: 1
+      m_Scale: {x: 1, y: 1}
+      m_Offset: {x: 0, y: 0}
+      m_Rotation: 0
+      m_Anchor: 9
+    m_Material: {fileID: 0}
+    m_SubmeshIndex: 0
+    m_ManualUV: 0
+    elementGroup: -1
+    m_TextureGroup: -1
+  - m_Indexes: 140000001500000016000000150000001700000016000000
+    m_SmoothingGroup: 0
+    m_Uv:
+      m_UseWorldSpace: 0
+      m_FlipU: 0
+      m_FlipV: 0
+      m_SwapUV: 0
+      m_Fill: 1
+      m_Scale: {x: 1, y: 1}
+      m_Offset: {x: 0, y: 0}
+      m_Rotation: 0
+      m_Anchor: 9
+    m_Material: {fileID: 0}
+    m_SubmeshIndex: 0
+    m_ManualUV: 0
+    elementGroup: -1
+    m_TextureGroup: -1
+  m_SharedVertices:
+  - m_Vertices: 000000000d00000016000000
+  - m_Vertices: 010000000400000017000000
+  - m_Vertices: 020000000f00000010000000
+  - m_Vertices: 030000000600000011000000
+  - m_Vertices: 050000000800000015000000
+  - m_Vertices: 070000000a00000013000000
+  - m_Vertices: 090000000c00000014000000
+  - m_Vertices: 0b0000000e00000012000000
+  m_SharedTextures: []
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 5, y: 0, z: 0}
+  - {x: 0, y: 10, z: 0}
+  - {x: 5, y: 10, z: 0}
+  - {x: 5, y: 0, z: 0}
+  - {x: 5, y: 0, z: -5}
+  - {x: 5, y: 10, z: 0}
+  - {x: 5, y: 10, z: -5}
+  - {x: 5, y: 0, z: -5}
+  - {x: 0, y: 0, z: -5}
+  - {x: 5, y: 10, z: -5}
+  - {x: 0, y: 10, z: -5}
+  - {x: 0, y: 0, z: -5}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 10, z: -5}
+  - {x: 0, y: 10, z: 0}
+  - {x: 0, y: 10, z: 0}
+  - {x: 5, y: 10, z: 0}
+  - {x: 0, y: 10, z: -5}
+  - {x: 5, y: 10, z: -5}
+  - {x: 0, y: 0, z: -5}
+  - {x: 5, y: 0, z: -5}
+  - {x: 0, y: 0, z: 0}
+  - {x: 5, y: 0, z: 0}
+  m_Textures0:
+  - {x: 0, y: 0}
+  - {x: -5, y: 0}
+  - {x: 0, y: 10}
+  - {x: -5, y: 10}
+  - {x: 0, y: 0}
+  - {x: -5, y: 0}
+  - {x: 0, y: 10}
+  - {x: -5, y: 10}
+  - {x: 5, y: 0}
+  - {x: 0, y: 0}
+  - {x: 5, y: 10}
+  - {x: 0, y: 10}
+  - {x: 5, y: 0}
+  - {x: 0, y: 0}
+  - {x: 5, y: 10}
+  - {x: 0, y: 10}
+  - {x: 0, y: 0}
+  - {x: 5, y: 0}
+  - {x: 0, y: -5}
+  - {x: 5, y: -5}
+  - {x: 0, y: -5}
+  - {x: -5, y: -5}
+  - {x: 0, y: 0}
+  - {x: -5, y: 0}
+  m_Textures2: []
+  m_Textures3: []
+  m_Tangents:
+  - {x: -1, y: 0, z: 0, w: -1}
+  - {x: -1, y: 0, z: 0, w: -1}
+  - {x: -1, y: 0, z: 0, w: -1}
+  - {x: -1, y: 0, z: 0, w: -1}
+  - {x: 0, y: 0, z: 1, w: -1}
+  - {x: 0, y: 0, z: 1, w: -1}
+  - {x: 0, y: 0, z: 1, w: -1}
+  - {x: 0, y: 0, z: 1, w: -1}
+  - {x: 1, y: 0, z: 0, w: -1}
+  - {x: 1, y: 0, z: 0, w: -1}
+  - {x: 1, y: 0, z: 0, w: -1}
+  - {x: 1, y: 0, z: 0, w: -1}
+  - {x: 0, y: 0, z: -1, w: -1}
+  - {x: 0, y: 0, z: -1, w: -1}
+  - {x: 0, y: 0, z: -1, w: -1}
+  - {x: 0, y: 0, z: -1, w: -1}
+  - {x: 1, y: 0, z: 0, w: -1}
+  - {x: 1, y: 0, z: 0, w: -1}
+  - {x: 1, y: 0, z: 0, w: -1}
+  - {x: 1, y: 0, z: 0, w: -1}
+  - {x: -1, y: 0, z: 0, w: -1}
+  - {x: -1, y: 0, z: 0, w: -1}
+  - {x: -1, y: 0, z: 0, w: -1}
+  - {x: -1, y: 0, z: 0, w: -1}
+  m_Colors: []
+  m_UnwrapParameters:
+    m_HardAngle: 88
+    m_PackMargin: 20
+    m_AngleError: 8
+    m_AreaError: 15
+  m_PreserveMeshAssetOnDestroy: 0
+  assetGuid: 
+  m_Mesh: {fileID: 591821581}
+  m_IsSelectable: 1
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!1 &857807818 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 102130, guid: 9a6a784f03006ff4d847d29b70320fa4, type: 3}
@@ -20761,7 +21091,6 @@ MonoBehaviour:
   TargetChar: {fileID: 872189175}
   agent: {fileID: 872189178}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -23583,7 +23912,6 @@ MonoBehaviour:
   TargetChar: {fileID: 949378392}
   agent: {fileID: 949378395}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -26675,7 +27003,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1072667281}
   agent: {fileID: 1072667284}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -28016,7 +28343,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1100127413}
   agent: {fileID: 1100127416}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -30813,7 +31139,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1172660437}
   agent: {fileID: 1172660440}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -31335,7 +31660,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1175548035}
   agent: {fileID: 1175548038}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -34385,6 +34709,99 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1275885477}
   m_CullTransparentMesh: 1
+--- !u!1 &1276977801
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1276977803}
+  - component: {fileID: 1276977802}
+  m_Layer: 0
+  m_Name: Directional Light (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!108 &1276977802
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1276977801}
+  m_Enabled: 1
+  serializedVersion: 10
+  m_Type: 1
+  m_Shape: 0
+  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Intensity: 0.5
+  m_Range: 10
+  m_SpotAngle: 30
+  m_InnerSpotAngle: 21.80208
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 2
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 1
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!4 &1276977803
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1276977801}
+  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalPosition: {x: 3, y: 43, z: -13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 94
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1001 &1280065231
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35412,7 +35829,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1312513393}
   agent: {fileID: 1312513396}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -35934,7 +36350,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1339678893}
   agent: {fileID: 1339678896}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -36758,7 +37173,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1347190137}
   agent: {fileID: 1347190140}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -38015,7 +38429,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1383163041}
   agent: {fileID: 1383163044}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -38128,7 +38541,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1394819699}
   agent: {fileID: 1394819702}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -41396,7 +41808,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 486930, guid: 9a6a784f03006ff4d847d29b70320fa4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 486930, guid: 9a6a784f03006ff4d847d29b70320fa4, type: 3}
       propertyPath: m_LocalPosition.y
@@ -41765,7 +42177,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1484628583}
   agent: {fileID: 1484628586}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -42698,7 +43109,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1531684356}
   agent: {fileID: 1531684359}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -43516,7 +43926,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1559368373}
   agent: {fileID: 1559368376}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -47427,7 +47836,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1696873980}
   agent: {fileID: 1696873983}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -48186,7 +48594,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1701595439}
   agent: {fileID: 1701595442}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -48376,7 +48783,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1704588218}
   agent: {fileID: 1704588221}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -49391,7 +49797,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1723717679}
   agent: {fileID: 1723717682}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -49774,7 +50179,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1727456242}
   agent: {fileID: 1727456245}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -50822,7 +51226,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1754705977}
   agent: {fileID: 1754705980}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -53054,7 +53457,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1808124504}
   agent: {fileID: 1808124507}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -53883,7 +54285,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1826583563}
   agent: {fileID: 1826583566}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -57204,7 +57605,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1917379335}
   agent: {fileID: 1917379338}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -57422,7 +57822,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1924790237}
   agent: {fileID: 1924790240}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -57835,7 +58234,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1927751520}
   agent: {fileID: 1927751523}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -58161,7 +58559,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1945113449}
   agent: {fileID: 1945113452}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -58971,7 +59368,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1968591059}
   agent: {fileID: 1968591062}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -59474,7 +59870,6 @@ MonoBehaviour:
   TargetChar: {fileID: 1973784721}
   agent: {fileID: 1973784724}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:
@@ -62458,7 +62853,6 @@ MonoBehaviour:
   TargetChar: {fileID: 2086374760}
   agent: {fileID: 2086374763}
   WalkZombie: {fileID: 7400000, guid: 36f951038cccf164c8901048aeb4fb9e, type: 3}
-  IdleZombie: {fileID: 7400000, guid: ec82f8817523b104a90d8631a4731fd2, type: 3}
   image: {fileID: 0}
   playerSpot: 20
   waypoints:

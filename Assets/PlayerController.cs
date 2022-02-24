@@ -13,10 +13,8 @@ public class PlayerController : MonoBehaviour
     public GameObject TargetChar;
     public NavMeshAgent agent;
     public AnimationClip WalkZombie;
-    public AnimationClip IdleZombie;
     public RawImage image;
     public float playerSpot;
-    private bool followPlayer;
     public Transform[] waypoints;
     int wIndex;
     Vector3 waypoint;
@@ -27,7 +25,6 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        followPlayer = false;
         playerSpot = 10f;
         UpdateWaypoint(); //update the waypoint of the enemy
         enemyTotal = 45;
@@ -48,7 +45,7 @@ public class PlayerController : MonoBehaviour
                 UpdateWaypoint();
             }
             
-            if(Vector3.Distance(transform.position, waypoint) < 1){
+            if(Vector3.Distance(transform.position, waypoint) < 1){ //only updates waypoint when very close to it
                 UpdateWaypointIndex();
                 UpdateWaypoint();
              }
@@ -56,34 +53,31 @@ public class PlayerController : MonoBehaviour
 
     void UpdateWaypoint() {
         TargetChar.GetComponent<Animation>().Play (WalkZombie.name);
-        waypoint = waypoints[wIndex].position;
-        agent.SetDestination(waypoint);
+        waypoint = waypoints[wIndex].position; //sets new waypoint with acquired index
+        agent.SetDestination(waypoint); //sets agents next position
     }
 
     void UpdateWaypointIndex(){
-        wIndex = Random.Range(0,waypoints.Length-1);
-        if(wIndex == waypoints.Length){
-            wIndex = 0;
-        }
+        wIndex = Random.Range(0,waypoints.Length); //gets a random index to allow for wandering type behaviour from the zombies
     }
 
      void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.tag == "Bullet")
         {
-            //If the GameObject's name matches the one you suggest, output this message in the console
+      
             
             collision.gameObject.GetComponent<Rigidbody>().useGravity = true;
-            collision.gameObject.SetActive(false);
-            enemies = GameObject.FindGameObjectsWithTag("Enemy");
-            foreach(GameObject enemy in enemies){
+            collision.gameObject.SetActive(false); //removes bullet on hit
+            enemies = GameObject.FindGameObjectsWithTag("Enemy"); //find all remaining active enemies
+            foreach(GameObject enemy in enemies){ //increase score for each zombie still remaining
                 score++;
             }
-            score = enemyTotal - score;
-            txt.text = "Score: " + score.ToString();
-            TargetChar.SetActive(false);
+            score = enemyTotal - score; //calculate the score by subtracting the total no. of enemies with the enemies still left alive
+            txt.text = "Score: " + score.ToString(); //update the score field on the canvas
+            TargetChar.SetActive(false); //remove zombie from game
         }
-        if(collision.gameObject.tag == "Enemy"){
+        if(collision.gameObject.tag == "Enemy"){ //update waypoint of zombie if it collides with zombie to prevent too much clustering 
             UpdateWaypointIndex();
             UpdateWaypoint();
         }        

@@ -14,16 +14,14 @@ public class BossController : MonoBehaviour
     public NavMeshAgent agent;
     public RawImage image;
     public float playerSpot;
-    private bool followPlayer;
     public Transform[] waypoints;
     int wIndex;
     Vector3 target;
     // Start is called before the first frame update
     void Start()
     {
-        followPlayer = false;
         playerSpot = 10f;
-        UpdateDestination();
+        UpdateWaypoint();
         Gun.GetComponent<BossGun>().enabled = false;
     }
 
@@ -38,25 +36,25 @@ public class BossController : MonoBehaviour
                 Gun.GetComponent<BossGun>().enabled = true;
 
             } else {
-                UpdateDestination();
+                UpdateWaypoint();
                 Gun.GetComponent<BossGun>().enabled = false;
             }
             
             if(Vector3.Distance(transform.position, target) < 1){
                 UpdateWaypointIndex();
-                UpdateDestination();
+                UpdateWaypoint();
              }
             
     }
 
-    void UpdateDestination() {
-        target = waypoints[wIndex].position;
+    void UpdateWaypoint() {
+        target = waypoints[wIndex].position; //sets target to be the next waypoint in the array to allow for more patrolling behaviour
         agent.SetDestination(target);
     }
 
     void UpdateWaypointIndex(){
         wIndex++;
-        if(wIndex == waypoints.Length){
+        if(wIndex == waypoints.Length){ //allows boss to start the patrolling process from the start
             wIndex = 0;
         }
     }
